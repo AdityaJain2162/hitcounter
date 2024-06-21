@@ -1,7 +1,3 @@
-Sure! Below is a template for your README.md file for the HitCounter project. This README will include instructions on how to set up, install, and run the application using Docker Compose.
-
----
-
 # HitCounter
 
 HitCounter is a simple web application built with Python Flask and Redis, containerized using Docker for easy deployment.
