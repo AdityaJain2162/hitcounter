@@ -1,6 +1,6 @@
 # HitCounter
 
-HitCounter is a simple web application built with Python Flask and Redis, containerized using Docker for easy deployment.
+HitCounter is a Dockerized Python Flask application integrated with Redis, designed to track and display the number of times a webpage has been visited. It demonstrates containerization for easy deployment and uses Redis as an efficient in-memory database for storing visit counts.
 
 ## Features
 
